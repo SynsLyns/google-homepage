@@ -1,0 +1,1 @@
+A copy of the google homepage (with limited features) to learn Chrome DevTools, basic HTML, and CSS styling.
